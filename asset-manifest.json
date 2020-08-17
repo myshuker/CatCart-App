@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CatCart-App/static/css/main.89b790b6.chunk.css",
+    "main.js": "/CatCart-App/static/js/main.75fef76a.chunk.js",
+    "main.js.map": "/CatCart-App/static/js/main.75fef76a.chunk.js.map",
+    "runtime-main.js": "/CatCart-App/static/js/runtime-main.df7e198c.js",
+    "runtime-main.js.map": "/CatCart-App/static/js/runtime-main.df7e198c.js.map",
+    "static/js/2.2921720c.chunk.js": "/CatCart-App/static/js/2.2921720c.chunk.js",
+    "static/js/2.2921720c.chunk.js.map": "/CatCart-App/static/js/2.2921720c.chunk.js.map",
+    "index.html": "/CatCart-App/index.html",
+    "precache-manifest.0ee576184d6b64905dd5e696650cb20e.js": "/CatCart-App/precache-manifest.0ee576184d6b64905dd5e696650cb20e.js",
+    "service-worker.js": "/CatCart-App/service-worker.js",
+    "static/css/main.89b790b6.chunk.css.map": "/CatCart-App/static/css/main.89b790b6.chunk.css.map",
+    "static/js/2.2921720c.chunk.js.LICENSE.txt": "/CatCart-App/static/js/2.2921720c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df7e198c.js",
+    "static/js/2.2921720c.chunk.js",
+    "static/css/main.89b790b6.chunk.css",
+    "static/js/main.75fef76a.chunk.js"
+  ]
+}
